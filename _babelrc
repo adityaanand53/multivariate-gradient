@@ -1,0 +1,19 @@
+{
+  "presets": [
+    [
+      "env",
+      {
+        "modules": false,
+        "targets": {
+          "browsers": [
+            "> 3%"
+          ]
+        }
+      }
+    ],
+    "es2015", "stage-0"
+  ],
+  "plugins": [
+    "@babel/plugin-transform-runtime"
+  ]
+}
