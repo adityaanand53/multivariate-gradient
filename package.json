@@ -12,7 +12,7 @@
     "@tensorflow/tfjs-vis": "1.1.0",
     "cross-env": "^5.2.1",
     "fs": "0.0.1-security",
-    "lodash": "4.17.13",
+    "lodash": "4.17.19",
     "papaparse": "5.0.0",
     "plotly.js-dist": "1.48.3"
   },
